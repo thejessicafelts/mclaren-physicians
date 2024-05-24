@@ -2,7 +2,7 @@
 
 On the McLaren website, the provider directory can be found at: [https://www.mclaren.org/main/physician-directory/](https://www.mclaren.org/main/physician-directory/). 
 
-Each physician is assigned an ID, which, when appended to the end of the main directory URL, will redirect to their informational page. For example: [https://www.mclaren.org/main/physician-directory/4545]("https://www.mclaren.org/main/physician-directory/4545") will display the profile for Dr. William Hughes, DO, an Internal Medicine doctor who practices in Mason, Michigan.
+Each physician is assigned an ID, which, when appended to the end of the main directory URL, will redirect to their informational page. For example: [https://www.mclaren.org/main/physician-directory/4545](https://www.mclaren.org/main/physician-directory/4545) will display the profile for Dr. William Hughes, DO, an Internal Medicine doctor who practices in Mason, Michigan.
 
 The purpose of this script will be to scrape information from all physician pages, and compile them into a csv file. Information to be included will be:
 - Name
