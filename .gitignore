@@ -165,3 +165,7 @@ active_ids.txt
 inactive_ids.txt
 last_checked_id.txt
 physicians_active.csv
+sample.csv
+
+directory-ui/
+directory-ui/**/*
